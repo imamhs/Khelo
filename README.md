@@ -8,4 +8,4 @@ Look at the compatibility.md for a list of games
 Look at the engines.md to learn about the software used to running games.
 
 
-Md Imam Hossain (emamhd@gmail.com)
+Imam Hossain (emamhd@gmail.com)
