@@ -1,5 +1,4 @@
 # Onthim PC play
-# Copyright (C) 2022 Imam Hossain
 
 Designed to play hundreds of games most efficeintly on PC using Linux as platfom
 
